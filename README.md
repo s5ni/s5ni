@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @s5ni
-- 👀 I’m interested in full-stack web development
+- 👋 Hi, I’m jarupla sunil nayak
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9347434763 
